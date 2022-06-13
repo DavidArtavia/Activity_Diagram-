@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="XtWp7yz4AggjUGfRbXKz" name="Page-1">
-        <mxGraphModel dx="760" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="758" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -167,8 +167,8 @@
                 <mxCell id="80" value="" style="edgeStyle=none;html=1;" parent="1" source="81" target="45" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="81" value="MUESTRA y REGISTRO DATOS ADMINISTRADOR-&amp;gt;EMPLEADO" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
-                    <mxGeometry x="200" y="220" width="370" height="20" as="geometry"/>
+                <mxCell id="81" value="DAA.2.1. MUESTRA y REGISTRO DATOS ADMINISTRADOR-&amp;gt;EMPLEADO" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+                    <mxGeometry x="175" y="221" width="420" height="18" as="geometry"/>
                 </mxCell>
                 <mxCell id="83" style="edgeStyle=none;html=1;" parent="1" source="82" target="71" edge="1">
                     <mxGeometry relative="1" as="geometry">

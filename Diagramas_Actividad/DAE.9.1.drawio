@@ -1,11 +1,11 @@
 <mxfile host="65bd71144e">
     <diagram id="5DKYwLtZOvD9sapzSiPz" name="Page-1">
-        <mxGraphModel dx="758" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1011" dy="809" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="41" value="MUESTRA y ALMACENA TIPO DE PAGO" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
-                    <mxGeometry x="240" y="70" width="240" height="20" as="geometry"/>
+                <mxCell id="41" value="DAE.9.1.MUESTRA y ALMACENA TIPO DE PAGO" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+                    <mxGeometry x="219" y="71" width="282" height="18" as="geometry"/>
                 </mxCell>
                 <mxCell id="70" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
                     <mxGeometry x="60" y="110" width="660" height="600" as="geometry"/>
@@ -71,7 +71,7 @@
                 <mxCell id="85" value="&lt;font color=&quot;#000000&quot;&gt;Ingresa metodo&lt;br&gt;de pago&amp;nbsp;&lt;/font&gt;" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fillColor=#FFFFFF;" parent="1" vertex="1">
                     <mxGeometry x="359" y="184.5" width="110" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="136" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="92" target="94">
+                <mxCell id="136" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="92" target="94" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="605" y="480"/>
@@ -90,7 +90,7 @@
                         <mxPoint x="190" y="615" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="138" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="94" target="137">
+                <mxCell id="138" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="94" target="137" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="94" value="&lt;font color=&quot;#000000&quot;&gt;Mensaje de &lt;br&gt;confirmacion&amp;nbsp;&lt;/font&gt;" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fillColor=#FFFFFF;" parent="1" vertex="1">
@@ -129,13 +129,13 @@
                 <mxCell id="105" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Es valido&amp;nbsp;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
                     <mxGeometry x="369" y="355" width="90" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="135" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="134" target="85">
+                <mxCell id="135" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="134" target="85" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="134" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;rotation=-90;" vertex="1" parent="1">
+                <mxCell id="134" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;rotation=-90;" parent="1" vertex="1">
                     <mxGeometry x="278.5" y="204.5" width="81" height="10" as="geometry"/>
                 </mxCell>
-                <mxCell id="137" value="&lt;font color=&quot;#000000&quot;&gt;Muestra tipo de pago&amp;nbsp;&lt;/font&gt;" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+                <mxCell id="137" value="&lt;font color=&quot;#000000&quot;&gt;Muestra tipo de pago&amp;nbsp;&lt;/font&gt;" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fillColor=#FFFFFF;" parent="1" vertex="1">
                     <mxGeometry x="339" y="560" width="130" height="40" as="geometry"/>
                 </mxCell>
             </root>

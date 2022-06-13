@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="kvJx0OIw-D7Irrh-RCKc" name="Page-1">
-        <mxGraphModel dx="760" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="758" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -110,8 +110,8 @@
                 <mxCell id="24" value="" style="edgeStyle=none;html=1;" parent="1" source="25" target="3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="MUESTRA y REGISTRA SERVICIOS&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
-                    <mxGeometry x="275" y="220" width="220" height="20" as="geometry"/>
+                <mxCell id="25" value="DAE.5.1.MUESTRA y REGISTRA SERVICIOS&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+                    <mxGeometry x="255" y="221" width="261" height="18" as="geometry"/>
                 </mxCell>
                 <mxCell id="27" value="Muestra datos de entrada&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#000000;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="315" y="592" width="130" height="50" as="geometry"/>
