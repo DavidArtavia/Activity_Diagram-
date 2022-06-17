@@ -23,6 +23,9 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="12" value="&lt;p style=&quot;line-height: 1.4&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Diagrama de integracion&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="284" y="112" width="233" height="56" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
